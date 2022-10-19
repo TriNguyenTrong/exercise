@@ -1,1 +1,5 @@
-# exercise
+# Bài tập
+- **Exercise 1**:  
+- **Exercise 2**:  
+- **Exercise 3**:  
+- **Assignment**:  
